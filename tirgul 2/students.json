@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "first_name": "מעיין",
+      "last_name": "סאלח",
+      "email": "maayan.salach@e.braude.ac.il",
+      "courses": ["כריית נתונים", "מחשוב ענן", "web", "פיזיקה", "תורת הקומפילציה"],
+      "favorite_link": "https://www.pinterest.com/msgillianmarie2/desktop-wallpapers/",
+      "favorite_show": ""
+    },
+    {
+      "first_name": "האלה",
+      "last_name": "אבו ריש",
+      "email": "hala.abo.resh@e.braude.ac.il",
+      "courses": ["כריית נתונים", "מחשוב ענן", "web", "פיזיקה", "תורת הקומפילציה"],
+      "favorite_link": "https://www.pinterest.com/msgillianmarie2/desktop-wallpapers/",
+      "favorite_show": ""
+    },
+    {
+      "first_name": "למא",
+      "last_name": "אברהים",
+      "email": "Lama.Ebrahem@e.braude.ac.il",
+      "courses": ["כריית נתונים", "מחשוב ענן", "web", "פיזיקה", "תורת הקומפילציה"],
+      "favorite_link": "https://www.pinterest.com/msgillianmarie2/desktop-wallpapers/",
+      "favorite_show": ""
+    },
+    {
+      "first_name": "ג'והרה",
+      "last_name": "נסראלדין",
+      "email": "johara.naser.a.ldeen@e.braude.ac.il",
+      "courses": ["כריית נתונים", "מחשוב ענן", "web", "פיזיקה", "תורת הקומפילציה"],
+      "favorite_link": "https://www.pinterest.com/msgillianmarie2/desktop-wallpapers/",
+      "favorite_show": ""
+    },
+    {
+      "first_name": "איה",
+      "last_name": "שלה",
+      "email": "aya.shali@e.braude.ac.il",
+      "courses": ["כריית נתונים", "מחשוב ענן", "web", "פיזיקה", "תורת הקומפילציה"],
+      "favorite_link": "https://www.pinterest.com/msgillianmarie2/desktop-wallpapers/",
+      "favorite_show": ""
+    }
+  ]
+}
